@@ -177,7 +177,7 @@ define(function(require) {
 
         var helpContainer = null;
         var helpIdx = 0;
-        var HELPCONTENT = [[_('Welcome to Music Blocks'), _('Music Blocks a collection of manipulative tools for exploring fundamental musical concepts in an integrative and fun way.'), 'activity/activity-icon-mouse-color.svg'],
+        var HELPCONTENT = [[_('Welcome to Music Blocks'), _('Music Blocks is a collection of manipulative tools for exploring fundamental musical concepts in an integrative and fun way.'), 'activity/activity-icon-mouse-color.svg'],
 			   [_('Meet "Mr. Mouse!"'), _('Mr. Mouse is our Music Blocks conductor. Mr. Mouse encourages you to explore the Musical Blocks, the Matrix, and the Performance/Notation possibilities of Music Blocks. "Let\'s start our tour!" '), 'activity/activity-icon-mouse-color.svg'],
                            [_('<<< Palette buttons'), _('The toolbar to the left contains the palette buttons: click the button to reveal the respective palettes of blocks (Matrix, Chunk, Perform, Tone, (Turtle), Number, Flow, Actions, Media, and more). Tip: You can drag blocks from the palettes onto the canvas to use them.'), 'images/icons.svg'], //<==Let's update the image. I could not find your originals.
                            [_('Clean'), _('Clears the user-generated Matrix and user-generated Music Notations.'), 'icons/clear-button.svg'],
